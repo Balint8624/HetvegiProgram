@@ -22,3 +22,12 @@ table {
     display: flex;
     gap: 50px;
 }
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img{
+    height: 300px;
+}
